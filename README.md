@@ -86,7 +86,7 @@ For inquiries and collaboration opportunities, reach out to us:
 📧 [wheat.sol.eco@gmail.com](mailto:wheat.sol.eco@gmail.com)  
 
 **Socials:**  
-- **Telegram**: [Link will be added soon]  
+- **Telegram**: [https://t.me/swhit_tg]  
 - **Website**: [Link will be added soon]  
 - **X (formerly Twitter)**: [Link will be added soon]  
 
