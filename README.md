@@ -1,65 +1,78 @@
-# WheatChain - A Decentralized Future Built on Aptos 🌾  
+# WheatChain (Wheat-Sol) - Empowering a Decentralized Future 🌾  
 
-Welcome to the official GitHub repository of **WheatChain**, a revolutionary token designed to deliver long-term value, sustainability, and financial inclusion for all. WheatChain is more than just a token—it’s a vision for a decentralized, future-ready economy.  
+Welcome to the official GitHub repository of **WheatChain (Wheat-Sol)**, a groundbreaking initiative to drive sustainable financial inclusion and long-term value in the blockchain space. WheatChain (Wheat-Sol) is more than a token—it represents a commitment to fostering a decentralized economy that benefits everyone.  
 
 ---
 
 ## 🌟 Project Overview  
 
-WheatChain ($SWHIT) is a digital asset inspired by the scarcity model of Bitcoin and the transformative potential of decentralized finance (DeFi). With a focus on sustainability and accessibility, WheatChain provides:  
+**WheatChain (Wheat-Sol)** is a digital asset designed to combine scarcity, utility, and innovation. Drawing inspiration from Bitcoin's scarcity model and the transformative power of decentralized finance (DeFi), WheatChain is tailored for a future-ready economy.  
 
-- **Financial Inclusion**: A secure store of value and utility token accessible globally.  
-- **Sustainability**: A fixed supply ensures consistent value retention and growth.  
-- **Adoption & Utility**: Leveraging staking, airdrops, and DeFi use cases to grow its ecosystem and user base.  
+### Key Values:  
+
+- **Financial Inclusion**: Providing a secure and accessible utility token for global users.  
+- **Sustainability**: Carefully managed tokenomics to promote consistent growth and value retention.  
+- **Innovation**: Leveraging modern blockchain technologies to create a vibrant ecosystem.  
 
 📧 Contact us: [wheat.sol.eco@gmail.com](mailto:wheat.sol.eco@gmail.com)  
 
 ---
 
-## 🔢 Tokenomics  
+## 🔢 Token Distribution  
 
-- **Total Supply**: 42,000,000 $SWHIT  
-- **Initial Distribution**:  
-  - 30,000,000 in circulation  
-  - 12,000,000 reserved for ecosystem growth, developer rewards, and community incentives  
+The Wheat-Sol token is designed to support ecosystem growth and long-term sustainability.  
+
+### Allocation Strategy:  
+- **60% Circulating Supply**: Freely tradable and accessible to the community.  
+- **20% Ecosystem Reserve**: Reserved for staking rewards, DeFi incentives, and airdrops.  
+- **10% Development & Partnerships**: Supporting developers and strategic collaborations.  
+- **10% Team & Advisors**: Allocated for long-term alignment and sustainability.  
 
 ---
 
 ## 🛠️ Vision and Goals  
 
-1. **Long-Term Value**: Enable users to save and grow their wealth for future use cases, such as retirement and generational wealth transfer.  
-2. **Sustainable Ecosystem**: Encourage community involvement through staking and governance.  
-3. **Cross-Chain Integration**: Expand beyond Aptos for interoperability and adoption.  
+WheatChain (Wheat-Sol) is committed to:  
+
+1. **Decentralized Wealth Creation**: Empowering users to grow wealth through staking, DeFi, and ecosystem utilities.  
+2. **Sustainability**: Building a thriving, community-driven ecosystem that evolves over time.  
+3. **Cross-Chain Innovation**: Expanding interoperability with other chains like Aptos and beyond, creating a seamless multi-chain experience.  
 
 ---
 
 ## 🚀 Key Features  
 
-- **Decentralized**: Built natively on Aptos for scalability and low transaction costs.  
-- **Community-Driven**: Users influence the direction of the project through participation.  
-- **Interoperable**: Plans for multi-chain capabilities to attract a global audience.  
+- **Built on Linea**: Harnessing the scalability and efficiency of Linea for a smooth user experience.  
+- **Interoperable Vision**: Plans to integrate with major chains like Aptos, expanding global reach and utility.  
+- **Community-Driven Governance**: Users can shape the ecosystem through active participation and decision-making.  
 
 ---
 
 ## 🗓️ Roadmap  
 
-### Phase 1: Ideation & Testnet Deployment (Completed)  
-- Developed and deployed $SWHIT on the Aptos testnet.  
-- Conducted airdrops and engaged early adopters.  
+### Phase 1: Foundation (Completed)  
+- Launch of Wheat-Sol on the Linea testnet.  
+- Community engagement via airdrops and promotional campaigns.  
 
-### Phase 2: Security Audits & Mainnet Launch  
-- Conduct smart contract security audits.  
-- Launch token on Aptos mainnet with marketing campaigns.  
+### Phase 2: Mainnet Stability  
+- Conducting extensive smart contract audits.  
+- Deploying Wheat-Sol on the Linea mainnet with marketing initiatives.  
 
 ### Phase 3: Ecosystem Expansion  
-- Introduce staking mechanisms and DeFi features.  
-- Integrate with other blockchain networks for multi-chain adoption.  
+- Introducing staking rewards and liquidity incentives.  
+- Partnering with DeFi platforms for yield farming opportunities.  
+- Expanding to other blockchains, including Aptos, for interoperability.  
+
+### Phase 4: Strategic Growth  
+- Developing governance mechanisms for a fully decentralized ecosystem.  
+- Introducing advanced DeFi utilities such as lending and asset management tools.  
+- Collaborating with institutional partners to drive adoption.  
 
 ---
 
 ## 🤝 Contributing  
 
-We welcome contributions to improve and expand WheatChain. To contribute:  
+We welcome contributions to enhance WheatChain (Wheat-Sol). To contribute:  
 
 1. Fork the repository.  
 2. Create a feature branch.  
@@ -69,7 +82,12 @@ We welcome contributions to improve and expand WheatChain. To contribute:
 
 ## 📬 Contact  
 
-For inquiries, reach out to us at:  
+For inquiries and collaboration opportunities, reach out to us:  
 📧 [wheat.sol.eco@gmail.com](mailto:wheat.sol.eco@gmail.com)  
 
-Let’s build a decentralized future together! 🌾
+**Socials:**  
+- **Telegram**: [Link will be added soon]  
+- **Website**: [Link will be added soon]  
+- **X (formerly Twitter)**: [Link will be added soon]  
+
+Let’s shape the future of decentralized finance together! 🌾
