@@ -348,11 +348,11 @@ Our roadmap outlines the key milestones and development phases for the Wheat-Sol
 
 | Phase | Timeline | Key Milestones |
 |-------|----------|----------------|
-| Foundation | Q4 2023 | - Complete core smart contract development<br>- Launch website and social media channels<br>- Conduct initial security audits<br>- Develop and test basic social features |
-| Token Launch | Q1 2024 | - Token presale event<br>- Public token launch<br>- Initial exchange listings<br>- Implement basic reward mechanisms |
-| Platform Beta | Q2 2024 | - Launch beta version of Wheat-Sol platform<br>- Introduce content creation and sharing features<br>- Implement user profiles and following system<br>- Begin community building initiatives |
-| DeFi Integration | Q3 2024 | - Launch decentralized exchange (DEX)<br>- Implement staking and yield farming features<br>- Introduce lending and borrowing protocols<br>- Develop and launch mobile applications |
-| Expansion and Scaling | Q4 2024 | - Implement advanced governance features<br>- Launch NFT marketplace<br>- Explore cross-chain compatibility<br>- Introduce layer 2 scaling solutions |
+| Foundation | Q4 2024 | - Complete core smart contract development<br>- Launch website and social media channels<br>- Conduct initial security audits<br>- Develop and test basic social features |
+| Token Launch | Q1 2025 | - Token presale event<br>- Public token launch<br>- Initial exchange listings<br>- Implement basic reward mechanisms |
+| Platform Beta | Q2 2025 | - Launch beta version of Wheat-Sol platform<br>- Introduce content creation and sharing features<br>- Implement user profiles and following system<br>- Begin community building initiatives |
+| DeFi Integration | Q3 2025 | - Launch decentralized exchange (DEX)<br>- Implement staking and yield farming features<br>- Introduce lending and borrowing protocols<br>- Develop and launch mobile applications |
+| Expansion and Scaling | Q4 2025 | - Implement advanced governance features<br>- Launch NFT marketplace<br>- Explore cross-chain compatibility<br>- Introduce layer 2 scaling solutions |
 | Ecosystem Growth | 2025 | - Launch DAO creation tools<br>- Implement cross-chain asset bridge<br>- Develop decentralized identity solutions<br>- Expand partnerships and integrations |
 | Advanced Features | 2025-2026 | - Introduce synthetic assets trading<br>- Implement decentralized insurance protocols<br>- Launch data marketplace<br>- Develop AI-powered content curation |
 | Global Adoption | 2026 and beyond | - Expand to emerging markets<br>- Implement fiat on/off ramps globally<br>- Explore integration with IoT and smart cities<br>- Continuous improvement and innovation based on community feedback |
