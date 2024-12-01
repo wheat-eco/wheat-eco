@@ -37,7 +37,7 @@ Key highlights:
 | Token Ticker | SWHIT |
 | Organization | WheatChain |
 | Total Supply | 500,000,000 SWHIT |
-| Blockchain (Current) | Ethereum |
+| Blockchain (Current) | Linea |
 | Blockchain (Future) | WheatChain |
 
 ## 2. Introduction
