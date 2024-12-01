@@ -208,7 +208,7 @@ The SWHIT token is the lifeblood of our ecosystem, designed to incentivize parti
 | Symbol | SWHIT |
 | Total Supply | 500,000,000 SWHIT |
 | Initial Circulating Supply | TBA |
-| Token Type | ERC-20 (Ethereum blockchain) |
+| Token Type | ERC-20 (Linea blockchain) |
 
 ### 6.2 Token Distribution
 
@@ -217,10 +217,10 @@ The initial distribution of SWHIT tokens is structured to ensure long-term susta
 | Allocation | Percentage | Amount | Vesting |
 |------------|------------|--------|---------|
 | User Rewards Pool | 40% | 200,000,000 SWHIT | Released over time based on platform activity |
-| Team and Advisors | 15% | 75,000,000 SWHIT | 3-year vesting with 1-year cliff |
-| Development Fund | 20% | 100,000,000 SWHIT | 5-year vesting, released quarterly |
+| Team and Advisors | 15% | 75,000,000 SWHIT | 1-year vesting with 6-months cliff |
+| Development Fund | 20% | 100,000,000 SWHIT | 2-year vesting, released quarterly |
 | Community Treasury | 15% | 75,000,000 SWHIT | Controlled by DAO governance |
-| Presale | 10% | 50,000,000 SWHIT | 6-month linear vesting after TGE |
+| Presale | 10% | 50,000,000 SWHIT | 2-month linear vesting after TGE |
 
 Note: The exact amount of tokens to be distributed initially will be determined closer to the launch date and will be less than the total supply to allow for future growth and incentives.
 
@@ -373,7 +373,7 @@ Wheat-Sol is developed by a small but highly skilled and dedicated team of profe
   - Developed several DeFi protocols with over $10M TVL
   - Regular speaker at blockchain conferences and meetups
 - **GitHub**: https://github.com/Adesopequizzify
-- **Twitter**: @muiz_dev_io
+- **Twitter**: https://x.com/muiz_dev_io?t=EN5MX-lCBAUDDtnwkLRCzQ&s=09
 
 ### Product Designer
 - **Name**: Elmar (Creative_elmar)
@@ -383,7 +383,7 @@ Wheat-Sol is developed by a small but highly skilled and dedicated team of profe
 - **Notable Achievements**:
   - Designed interfaces for multiple successful Web3 projects
   - Recognized for innovative and user-centric design approaches
-- **Twitter**: @Creative_elmar
+- **Twitter**: https://x.com/Creative_elmar?t=IBFMBSr-jPfaHUmyQgPc6Q&s=09
 
 ### Advisors and Investors
 - Two undisclosed investors providing strategic guidance and financial support
@@ -475,9 +475,9 @@ For the latest updates and more information:
 | Channel | Link/Address |
 |---------|--------------|
 | Website | https://swhit.vercel.app |
-| Twitter | @SWHIT_official |
-| Telegram | t.me/SWHIT_community |
-| Discord | discord.gg/SWHIT |
+| Twitter | https://x.com/wheat_linea?t=uYAmigt6Zsaks7p0NeofPw&s=09 |
+| Telegram | https://t.me/swhit_tg |
+| Discord | N/A |
 | GitHub | https://github.com/wheat-eco |
 | Email | wheat.sol.eco@gmail.com |
 
