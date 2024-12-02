@@ -474,12 +474,12 @@ For the latest updates and more information:
 
 | Channel | Link/Address |
 |---------|--------------|
-| Website | https://swhit.vercel.app |
+| Website | https://wheatchain.xyz |
 | Twitter | https://x.com/wheat_linea?t=uYAmigt6Zsaks7p0NeofPw&s=09 |
 | Telegram | https://t.me/swhit_tg |
 | Discord | N/A |
 | GitHub | https://github.com/wheat-eco |
-| Email | wheat.sol.eco@gmail.com |
+| Email | info@wheatchain.xyz |
 
 Join us in revolutionizing social engagement and decentralized finance with Wheat-Sol!
 
