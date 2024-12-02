@@ -372,7 +372,9 @@ Wheat-Sol is developed by a small but highly skilled and dedicated team of profe
   - Contributed to multiple open-source projects in the blockchain space
   - Developed several DeFi protocols with over $10M TVL
   - Regular speaker at blockchain conferences and meetups
+ 
 - **GitHub**: https://github.com/Adesopequizzify
+- **Email**: muiz@wheatchain.xyz
 - **Twitter**: https://x.com/muiz_dev_io?t=EN5MX-lCBAUDDtnwkLRCzQ&s=09
 
 ### Product Designer
