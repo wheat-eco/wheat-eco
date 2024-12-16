@@ -379,16 +379,16 @@ Wheat-Sol is developed by a small but highly skilled and dedicated team of profe
 - **Role**: Full-stack developer, blockchain architect, and project visionary
 - **Experience**: Extensive background in blockchain technologies, cryptography, and economic theory
 - **Vision**: Creating a digital asset that can truly serve as a multigenerational store of value
-- **GitHub**: [https://github.com/Adesopequizzify](https://github.com/Adesopequizzify)
+- **GitHub**: [profile ](https://github.com/Muiz-Dev)
 - **Email**: muiz@wheatchain.xyz
-- **Twitter**: [https://x.com/muiz_dev_io?t=EN5MX-lCBAUDDtnwkLRCzQ&s=09](https://x.com/muiz_dev_io?t=EN5MX-lCBAUDDtnwkLRCzQ&s=09)
+- **Twitter**: [X](https://x.com/muiz_dev_io?t=EN5MX-lCBAUDDtnwkLRCzQ&s=09)
 
 ### Product Designer
 - **Name**: Elmar (Creative_elmar)
 - **Role**: UI/UX design, brand development, and user experience optimization
 - **Experience**: Skilled in creating intuitive interfaces for complex blockchain applications
 - **Notable Achievements**: Designed interfaces for multiple successful Web3 projects
-- **Twitter**: [https://x.com/Creative_elmar?t=IBFMBSr-jPfaHUmyQgPc6Q&s=09](https://x.com/Creative_elmar?t=IBFMBSr-jPfaHUmyQgPc6Q&s=09)
+- **Twitter**: [X](https://x.com/Creative_elmar?t=IBFMBSr-jPfaHUmyQgPc6Q&s=09)
 
 ### Advisors and Investors
 - Two undisclosed advisors with backgrounds in macroeconomics and blockchain technology
@@ -513,11 +513,11 @@ Join us in revolutionizing long-term value storage with Wheat-Sol:
 
 | Channel | Link/Address |
 |---------|--------------|
-| Website | [https://wheatchain.xyz](https://wheatchain.xyz) |
-| Twitter | [https://x.com/wheat_linea?t=uYAmigt6Zsaks7p0NeofPw&s=09](https://x.com/wheat_linea?t=uYAmigt6Zsaks7p0NeofPw&s=09) |
-| Telegram | [https://t.me/swhit_tg](https://t.me/swhit_tg) |
+| Website | [website](https://wheatchain.xyz) |
+| Twitter | [X](https://x.com/wheat_linea?t=uYAmigt6Zsaks7p0NeofPw&s=09) |
+| Telegram | [Channel](https://t.me/swhit_tg) |
 | Discord | Coming soon |
-| GitHub | [https://github.com/wheat-eco](https://github.com/wheat-eco) |
+| GitHub | [Profile](https://github.com/wheat-eco) |
 | Email | info@wheatchain.xyz |
 
 ---
