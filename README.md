@@ -229,7 +229,7 @@ The SWHIT token is designed to appreciate in value over time, serving as a digit
 |-----------|-------|
 | Name | Wheat-Sol Token |
 | Symbol | SWHIT |
-| Total Supply | 500,000,000 SWHIT |
+| Total Supply | 50,000,000,000 SWHIT |
 | Initial Circulating Supply | 500,000,000 SWHIT (1% of total supply) |
 | Token Type | ERC-20 (Linea blockchain) & Sui Token (Via Move)|
 
