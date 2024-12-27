@@ -1,4 +1,4 @@
-# Wheat-Sol (SWHIT): Sowing the Seeds of Digital Prosperity
+# WheatChain (SWHIT): Sowing the Seeds of Digital Prosperity
 
 
 ## Table of Contents
