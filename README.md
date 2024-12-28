@@ -39,8 +39,8 @@ Key highlights:
 | Platform Name | WheatChain |
 | Token Ticker | SWHIT |
 | Organization | WheatChain |
-| Total Supply | 50,000,000,000 SWHIT |
-| Blockchain (Current) | Linea, SUI |
+| Total Supply | 65,000,000,000 SWHIT |
+| Blockchain (Current) | Aptos, SUI |
 | Blockchain (Future) | WheatChain |
 
 ## 2. Introduction
@@ -180,10 +180,10 @@ WheatChain is built on a robust and forward-thinking technology stack:
 
 | Component | Technology |
 |-----------|------------|
-| Current Smart Contract Platform | Ethereum, Sui |
-| Layer 2 Solution | Linea & Sui for scalability and low fees |
+| Current Smart Contract Platform | Aptos, Sui |
+| Layer 2 Solution | Aptos & Sui for scalability and low fees |
 | Future Blockchain | WheatChain (in development) |
-| Token Standard | ERC-20 (Ethereum), Sui Fungible Token (via Move) |
+| Token Standard | Sui Fungible Token (via Move) |
 | Consensus Mechanism | Proof-of-Stake |
 
 ### 6.2 DeFi Integration
@@ -229,19 +229,20 @@ The SWHIT token is designed to appreciate in value over time, serving as a digit
 |-----------|-------|
 | Name | WheatChain Token |
 | Symbol | SWHIT |
-| Total Supply | 50,000,000,000 SWHIT |
-| Initial Circulating Supply | 500,000,000 SWHIT (1% of total supply) |
-| Token Type | ERC-20 (Linea blockchain) & Sui Token (Via Move)|
+| Total Supply | 65,000,000,000 SWHIT |
+| Initial Circulating Supply | 5,000,000,000 SWHIT (10% of total supply) |
+| Token Type | Fungible Assets(Aptos) & Sui Token (Via Move)|
 
 ### 7.2 Token Distribution
 
 | Allocation | Percentage | Amount | Vesting |
 |------------|------------|--------|---------|
-| Social Distribution Pool | 40% | 200,000,000 SWHIT | Released through social tasks over 5 years |
-| Long-Term Storage Vault | 30% | 150,000,000 SWHIT | 10-year linear release for stability |
-| Development Fund | 15% | 75,000,000 SWHIT | 5-year vesting, released quarterly |
-| Community Treasury | 10% | 50,000,000 SWHIT | Controlled by DAO governance |
-| Ecosystem Growth | 5% | 25,000,000 SWHIT | Used for partnerships and marketing |
+| Community Rewards and Ecosystem Growth | 40% | 40,000,000,000 SWHIT | Linear vesting over 6 years, released monthly |
+| Development Fund | 25% | 25,000,000,000 SWHIT | Linear vesting over 5 years, released quarterly |
+| Team and Advisors | 15% | 15,000,000,000 SWHIT | 6-month cliff, then linear vesting over 4 years, released semi-annually |
+| Treasury Reserve | 10% | 10,000,000,000 SWHIT | Linear vesting over 10 years, released annually |
+| Initial Circulation (DEX Liquidity + Airdrop) | 5% | 5,000,000,000 SWHIT | Immediately available at launch |
+| Strategic Partnerships | 5% | 5,000,000,000 SWHIT | Linear vesting over 3 years, released quarterly |
 
 ### 7.3 Value Appreciation Mechanisms
 
