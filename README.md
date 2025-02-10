@@ -7,7 +7,7 @@
 2. [Introduction](#2-introduction)
 3. [Vision and Concept](#3-vision-and-concept)
 4. [Problem Statement](#4-problem-statement)
-5. [Our Solution: Wheat-Sol](#5-our-solution-wheat-sol)
+5. [Our Solution: WheatChain](#5-our-solution-wheatchain)
 6. [Technology Stack](#6-technology-stack)
 7. [Token Economics](#7-token-economics)
 8. [Social Distribution Model](#8-social-distribution-model)
@@ -39,8 +39,8 @@ Key highlights:
 | Platform Name | WheatChain |
 | Token Ticker | SWHIT |
 | Organization | WheatChain |
-| Total Supply | 65,000,000,000 SWHIT |
-| Blockchain (Current) | Aptos, SUI |
+| Total Supply | 15,000,000,000 SWHIT |
+| Blockchain (Current) | SUI |
 | Blockchain (Future) | WheatChain |
 
 ## 2. Introduction
