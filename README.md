@@ -22,7 +22,7 @@
 
 ## 1. Executive Summary
 
-WheatChain (SWHIT) is a revolutionary blockchain-based platform designed to redefine the concept of long-term value storage in the digital age. Inspired by the timeless practice of storing wheat for future generations, Wheat-Sol aims to create a digital asset that starts with a modest valuation but has the potential to surpass even Bitcoin in long-term value and utility.
+WheatChain (SWHIT) is a revolutionary blockchain-based platform designed to redefine the concept of long-term value storage in the digital age. Inspired by the timeless practice of storing wheat for future generations, WheatChain aims to create a digital asset that starts with a modest valuation but has the potential to surpass even Bitcoin in long-term value and utility.
 
 Key highlights:
 - SWHIT token as a digital representation of stored value, inspired by wheat storage
@@ -129,7 +129,7 @@ WheatChain facilitates the seamless transfer of wealth across generations:
 
 ### 5.3 Utility Beyond Speculation
 
-SWHIT tokens offer practical utility within the Wheat-Sol ecosystem:
+SWHIT tokens offer practical utility within the WheatChain ecosystem:
 
 - Governance rights in the WheatChain DAO
 - Access to exclusive platform features and services
@@ -180,8 +180,8 @@ WheatChain is built on a robust and forward-thinking technology stack:
 
 | Component | Technology |
 |-----------|------------|
-| Current Smart Contract Platform | Aptos, Sui |
-| Layer 2 Solution | Aptos & Sui for scalability and low fees |
+| Current Smart Contract Platform |  Sui |
+| Layer 2 Solution | Sui for scalability and low fees |
 | Future Blockchain | WheatChain (in development) |
 | Token Standard | Sui Fungible Token (via Move) |
 | Consensus Mechanism | Proof-of-Stake |
@@ -229,20 +229,20 @@ The SWHIT token is designed to appreciate in value over time, serving as a digit
 |-----------|-------|
 | Name | WheatChain Token |
 | Symbol | SWHIT |
-| Total Supply | 65,000,000,000 SWHIT |
+| Total Supply | 15,000,000,000 SWHIT |
 | Initial Circulating Supply | 5,000,000,000 SWHIT (10% of total supply) |
-| Token Type | Fungible Assets(Aptos) & Sui Token (Via Move)|
+| Token Type | Sui Token (Via Move)|
 
 ### 7.2 Token Distribution
 
 | Allocation | Percentage | Amount | Vesting |
 |------------|------------|--------|---------|
-| Community Rewards and Ecosystem Growth | 40% | 40,000,000,000 SWHIT | Linear vesting over 6 years, released monthly |
-| Development Fund | 25% | 25,000,000,000 SWHIT | Linear vesting over 5 years, released quarterly |
-| Team and Advisors | 15% | 15,000,000,000 SWHIT | 6-month cliff, then linear vesting over 4 years, released semi-annually |
-| Treasury Reserve | 10% | 10,000,000,000 SWHIT | Linear vesting over 10 years, released annually |
-| Initial Circulation (DEX Liquidity + Airdrop) | 5% | 5,000,000,000 SWHIT | Immediately available at launch |
-| Strategic Partnerships | 5% | 5,000,000,000 SWHIT | Linear vesting over 3 years, released quarterly |
+| Community Rewards and Ecosystem Growth | 40% | **6,000,000,000 SWHIT** | Linear vesting over 6 years, released monthly |
+| Development Fund | 25% | **3,750,000,000 SWHIT** | Linear vesting over 5 years, released quarterly |
+| Team and Advisors | 15% | **2,250,000,000 SWHIT** | 6-month cliff, then linear vesting over 4 years, released semi-annually |
+| Treasury Reserve | 10% | **1,500,000,000 SWHIT** | Linear vesting over 10 years, released annually |
+| Initial Circulation (DEX Liquidity + Airdrop) | 5% | **750,000,000 SWHIT** | Immediately available at launch |
+| Strategic Partnerships | 5% | **750,000,000 SWHIT** | Linear vesting over 3 years, released quarterly |
 
 ### 7.3 Value Appreciation Mechanisms
 
@@ -273,7 +273,7 @@ WheatChain will launch a dedicated web application where users can earn SWHIT to
 | Creating an account | 1000 SWHIT |
 | Completing profile | 1500 SWHIT |
 | Daily login | 100 SWHIT |
-| Sharing content about Wheat-Sol | 500 SWHIT per share |
+| Sharing content about WheatChain | 500 SWHIT per share |
 | Referring new users | 2500 SWHIT per verified referral |
 | Participating in community discussions | 50 SWHIT per quality post |
 | Completing educational modules | 100 SWHIT per module |
@@ -361,7 +361,7 @@ While starting from a modest valuation, SWHIT aims to surpass Bitcoin's value ov
 
 ## 10. Roadmap
 
-Our roadmap outlines the key milestones in Wheat-Sol's journey to becoming the ultimate digital store of value:
+Our roadmap outlines the key milestones in WheatChain's journey to becoming the ultimate digital store of value:
 
 | Phase | Timeline | Key Milestones |
 |-------|----------|----------------|
@@ -502,7 +502,7 @@ WheatChain aims to create a robust ecosystem through strategic partnerships and 
 
 WheatChain represents a paradigm shift in how we conceive of and implement long-term value storage in the digital age. By drawing inspiration from the time-tested concept of storing wheat for future generations, we are creating a digital asset that not only preserves value but has the potential to appreciate significantly over time, potentially surpassing even Bitcoin.
 
-Our vision extends beyond creating just another cryptocurrency; we aim to establish SWHIT as a true intergenerational store of value, starting from humble beginnings but aiming for unprecedented heights. Through innovative tokenomics, a unique social distribution model, sustainable practices, and a community-driven approach, Wheat-Sol is poised to become the cornerstone of wealth preservation for the digital era.
+Our vision extends beyond creating just another cryptocurrency; we aim to establish SWHIT as a true intergenerational store of value, starting from humble beginnings but aiming for unprecedented heights. Through innovative tokenomics, a unique social distribution model, sustainable practices, and a community-driven approach, WheatChain is poised to become the cornerstone of wealth preservation for the digital era.
 
 As we embark on this ambitious journey, we invite visionaries, developers, economists, and long-term thinkers to join us in reshaping the future of value storage. Together, we can create a legacy that will benefit not just our generation, but many generations to come.
 
@@ -523,4 +523,4 @@ Join us in revolutionizing long-term value storage with WheatChain:
 
 ---
 
-**Disclaimer**: This document is for informational purposes only and does not constitute financial advice. The SWHIT token is designed as a long-term store of value and to support the growth of the Wheat-Sol ecosystem. We encourage potential participants to explore the project, conduct their own research, and consult with financial and legal professionals before making any decisions. The WheatChain team is committed to regulatory compliance and building a strong, sustainable future for the community.
+**Disclaimer**: This document is for informational purposes only and does not constitute financial advice. The SWHIT token is designed as a long-term store of value and to support the growth of the WheatChain ecosystem. We encourage potential participants to explore the project, conduct their own research, and consult with financial and legal professionals before making any decisions. The WheatChain team is committed to regulatory compliance and building a strong, sustainable future for the community.
